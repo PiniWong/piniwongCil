@@ -1,0 +1,29 @@
+{
+  "name": "mycil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "piniwong": "index.js"
+  },
+  "keywords": [
+    "pini",
+    "vue",
+    "piniwong"
+  ],
+  "author": "piniwong",
+  "license": "IMITSC",
+  "homepage": "https://github.com/coderwhy/coderwhy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderwhy/coderwhy"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6"
+  }
+}
